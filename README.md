@@ -1,27 +1,27 @@
-# 👋 Hey there, I'm Ritik Joshi
+# Hey, I’m Ritik Joshi 👋
 
-I'm an AI undergraduate from Belgium, self-taught Pythonista, and future machine learning engineer. My learning journey hasn't been perfect, but it's been **relentless**.
+So, here’s the rundown: I’m an AI undergraduate based in Belgium, with a strong self-taught background in Python and a focus on machine learning. My path’s been pretty relentless—definitely not linear, but always moving forward.
 
-## 🚀 What I'm Doing Now
+## 🚀 Current Focus Areas
 
-- 🌱 Learning Python deeply through Exercism (141 challenges, 15+ done)
-- 🤖 Starting BSc in Artificial Intelligence (Sep 2025)
-- 🧠 Building strong CS foundations: Algorithms, Systems, Data Science
-- 📚 Documenting my journey, roadmaps & notes in Notion
+- 🌱 Deep-diving into Python via Exercism (141 challenges, 15+ completed so far—metrics matter)
+- 🤖 Prepping for a BSc in Artificial Intelligence (starts September 2025)
+- 🧠 Developing solid computer science fundamentals—algorithms, systems, data science
+- 📚 Systematically documenting my workflows, roadmaps, and technical notes in Notion
 
-## 💡 Tech Interests
+## 💡 Technical Interests
 
-- 🧬 Artificial Intelligence, Machine Learning, Deep Learning
-- 📊 Data Science & Visualization
-- 🎮 Game AI (I used to study game design!)
-- 🛠️ Automation & Scripting
+- 🧬 Artificial Intelligence, Machine Learning, Deep Learning frameworks
+- 📊 Data Science, statistical analysis, visualization pipelines
+- 🎮 Game AI (previous experience in game design; brings a unique perspective)
+- 🛠️ Automation and scripting to optimize repetitive processes
 
-## 📈 Current Goals
+## 📈 Objectives
 
-- ✅ Finish all 141 Python Exercism challenges in 3 months
-- 🚧 Build 3 real-world Python projects
-- 🌐 Create an ML portfolio with GitHub + Notebooks
-- 📄 Start blogging on learning and growth
+- ✅ Complete all 141 Python Exercism challenges within a 3-month timeframe
+- 🚧 Develop three production-level Python projects
+- 🌐 Build a machine learning portfolio—GitHub repositories
+- 📄 Launch a technical blog focused on learning strategies and growth in AI/ML
 
 ## 🛠️ Tools & Languages
 
@@ -30,12 +30,11 @@ I'm an AI undergraduate from Belgium, self-taught Pythonista, and future machine
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📫 Let's Connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikjoshi47)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ritikjoshi47)
 
 ---
 
-✨ “I may be starting late—but I’m showing up every day. Let’s build the future.”
-
+✨ “Started later than some, but commitment is non-negotiable. Let’s build what’s next.”
