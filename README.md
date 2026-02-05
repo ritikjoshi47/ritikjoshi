@@ -1,40 +1,24 @@
-# Hey, I’m Ritik Joshi 👋
+# 💫 About Me:
+I am a student learning Artificial intelligence and automation in KdG HogeSchool, Belgium. Apart from that, I have a keen interest in security.
 
-So, here’s the rundown: I’m an AI undergraduate based in Belgium, with a strong self-taught background in Python and a focus on machine learning. My path’s been pretty relentless—definitely not linear, but always moving forward.
 
-## 🚀 Current Focus Areas
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/maximusdemon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikjoshi47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikjoshi.info@gmail.com) 
 
-- 🌱 Deep-diving into Python via Exercism (141 challenges, 15+ completed so far—metrics matter)
-- 🤖 Prepping for a BSc in Artificial Intelligence (starts September 2025)
-- 🧠 Developing solid computer science fundamentals—algorithms, systems, data science
-- 📚 Systematically documenting my workflows, roadmaps, and technical notes in Notion
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ritikjoshi47&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ritikjoshi47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjoshi47&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💡 Technical Interests
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritikjoshi47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🧬 Artificial Intelligence, Machine Learning, Deep Learning frameworks
-- 📊 Data Science, statistical analysis, visualization pipelines
-- 🎮 Game AI (previous experience in game design; brings a unique perspective)
-- 🛠️ Automation and scripting to optimize repetitive processes
-
-## 📈 Objectives
-
-- ✅ Complete all 141 Python Exercism challenges within a 3-month timeframe
-- 🚧 Develop three production-level Python projects
-- 🌐 Build a machine learning portfolio—GitHub repositories
-- 📄 Launch a technical blog focused on learning strategies and growth in AI/ML
-
-## 🛠️ Tools & Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikjoshi47)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ritikjoshi47)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ritikjoshi47&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ritikjoshi47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✨ “Started later than some, but commitment is non-negotiable. Let’s build what’s next.”
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
